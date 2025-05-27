@@ -2,6 +2,7 @@
 Developed a Gradient Boosting model to predict student depression from academic, psychological, and social features. Achieved ROC-AUC > 90% with focus on Recall and F1-Score to ensure early detection. Insights support targeted mental health interventions in schools.
 
 ## Repository Outline
+```
 ├── deployment/
 │   ├── app.py
 │   ├── best_model.pkl
@@ -15,6 +16,7 @@ Developed a Gradient Boosting model to predict student depression from academic,
 ├── P1M2_Maulana_Yusuf.ipynb
 ├── url.txt
 └── README.md
+```
 
 Content of this project:
 1. README.md - General description about the project.

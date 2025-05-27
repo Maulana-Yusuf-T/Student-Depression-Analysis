@@ -1,0 +1,5 @@
+Dataset link:
+https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset/data
+
+Dataset HuggingFace (EDA and Inference):
+https://huggingface.co/spaces/Maulanayt/Milestone_2
